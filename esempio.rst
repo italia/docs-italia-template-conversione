@@ -40,13 +40,30 @@ relativo allo stile
 Formattare il codice
 --------------------
 
-Questo testo ha lo stile “Preformatted Text”, da usare per gli esempi di
-codice sorgente
+::
+
+   Questo testo ha lo stile “Source Code”, da usare per gli esempi di codice sorgente
 
 Citazioni
 ---------
 
 Questo è un blocco formattato come citazione
+
+Immagine
+--------
+
+|image0|
+
+Tabella
+-------
+
++----+----+----+
+| H1 | H2 | H3 |
++----+----+----+
+| A1 | A2 | A3 |
++----+----+----+
+| B1 | B2 | B3 |
++----+----+----+
 
 Una nota sui titoli
 ===================
@@ -55,3 +72,7 @@ I titoli di sezione come quello qui sopra vanno strutturati in ordine
 gerarchico. Un titolo di livello 1 dovrebbe essere seguito solo da
 titoli di livello 2, non 3 o 4 per esempio. Abbiamo sviluppato un filtro
 pandoc per correggere la struttura dei titoli se dovesse servire
+
+.. |image0| image:: /media/image1.jpeg
+   :width: 2.08403in
+   :height: 2.27847in

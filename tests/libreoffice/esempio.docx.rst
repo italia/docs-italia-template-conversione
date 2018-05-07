@@ -58,11 +58,11 @@ Tabella
 -------
 
 +----+----+----+
+| H1 | H2 | H3 |
++----+----+----+
 | A1 | A2 | A3 |
 +----+----+----+
 | B1 | B2 | B3 |
-+----+----+----+
-| C1 | C2 | C3 |
 +----+----+----+
 
 Una nota sui titoli
@@ -74,5 +74,5 @@ titoli di livello 2, non 3 o 4 per esempio. Abbiamo sviluppato un filtro
 pandoc per correggere la struttura dei titoli se dovesse servire
 
 .. |image0| image:: /media/image1.jpeg
-   :width: 2.08472in
-   :height: 2.27917in
+   :width: 2.08403in
+   :height: 2.27847in
