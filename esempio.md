@@ -40,13 +40,28 @@ relativo allo stile
 Formattare il codice
 --------------------
 
-Questo testo ha lo stile "Preformatted Text", da usare per gli esempi di
-codice sorgente
+    Questo testo ha lo stile “Source Code”, da usare per gli esempi di codice sorgente
 
 Citazioni
 ---------
 
 Questo è un blocco formattato come citazione
+
+Immagine
+--------
+
+![image0](media/image1.jpeg){width="2.08403in" height="2.27847in"}
+
+Tabella
+-------
+
+  ----- ----- -----
+  H1    H2    H3
+
+  A1    A2    A3
+
+  B1    B2    B3
+  ----- ----- -----
 
 Una nota sui titoli
 ===================

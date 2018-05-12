@@ -1,4 +1,6 @@
+######################
 Esempio di conversione
+######################
 
 Obiettivo del documento
 =======================
@@ -73,6 +75,6 @@ gerarchico. Un titolo di livello 1 dovrebbe essere seguito solo da
 titoli di livello 2, non 3 o 4 per esempio. Abbiamo sviluppato un filtro
 pandoc per correggere la struttura dei titoli se dovesse servire
 
-.. |image0| image:: /media/image1.jpeg
+.. |image0| image:: media/image1.jpeg
    :width: 2.08403in
    :height: 2.27847in
