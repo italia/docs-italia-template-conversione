@@ -1,7 +1,7 @@
 #### Files RST di esempio
 
-Questi files hanno lo scopo di illustrare la conversione di contenuti
-attraverso vari formati. Leggendo `esempio.rst` e confrontando col
+Questi file hanno lo scopo di illustrare la conversione di contenuti
+attraverso vari formati. Leggendo `esempio.rst` e confrontandolo col
 contenuto di `esempio.docx` o `esempio.odt`, si può ricavare un'idea
 della sintassi RST per i casi principali.
 
