@@ -6,8 +6,8 @@ Questi files permettono di confrontare un documento scritto con Office
 stessi, i formati profondamente differenti.
 
 Il file `esempio.rst` può essere letto da qualsiasi persona usando un
-qualsiasi editor di testo, mentre files come `esempio.docx` possono
-essere letti usando Office o LibreOffice.
+qualsiasi editor di testo, mentre files come `esempio.docx` (formato
+OpenXML) possono essere letti usando Office o LibreOffice.
 
 Tutti gli esempi contengono lo stesso testo e lo stesso stile, quindi
 potete osservare la corrispondenza fra la sintassi rST e la
