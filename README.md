@@ -1,6 +1,6 @@
-#### Files RST di esempio
+## Confrontare uno stesso documento in diversi formati
 
-Questi file hanno lo scopo di illustrare la conversione di contenuti
+Attraverso questi file illustriamo la conversione di un documento
 attraverso vari formati. Leggendo `esempio.rst` e confrontandolo col
 contenuto di `esempio.docx` o `esempio.odt`, si può ricavare un'idea
 della sintassi RST per i casi principali.
