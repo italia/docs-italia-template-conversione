@@ -17,3 +17,9 @@ Un'altra risorsa utile sono [i documenti dimostrativi nel repository
 del tema di Docs
 Italia](https://github.com/italia/docs-italia-theme/tree/master/demo_docs/source)
 
+### Conversione automatica
+
+Questi documenti possono essere convertiti automaticamente di formato
+usando [pandoc](pandoc.org) e gli altri strumenti di
+[conversione](http://guida-docs-italia.readthedocs.io/it/latest/index/scrivere-un-documento.html#migrazione-su-docs-italia-di-documentazione-esistente)
+supportati da Docs Italia
