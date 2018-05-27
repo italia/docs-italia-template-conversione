@@ -128,14 +128,6 @@ In alternativa, è possibile specificare il linguaggio del codice.
 <a href="#">clicca qui</a>
 ```
 
-Aggiungere il numero della riga.
-
-``` {.sourceCode .html}
-<a href="#">clicca qui</a>
-
-<a href="#">clicca anche qui</a>
-```
-
 ### Citazioni
 
 Questo è un blocco formattato come citazione.
