@@ -13,6 +13,9 @@ Tutti gli esempi contengono lo stesso testo e lo stesso stile, quindi
 potete osservare la corrispondenza fra la sintassi RST e la
 formattazione mostrata da un editor WYSIWYG come Word.
 
+Potete anche visualizzare il [documento in formato Google
+Docs](https://docs.google.com/document/d/1_wXejg4DMcD17wGkR0zUA9rqoO6HSL5n_N4HVjrxtxY/edit?usp=sharing).
+
 Un'altra risorsa utile sono [i documenti dimostrativi nel repository
 del tema di Docs
 Italia](https://github.com/italia/docs-italia-theme/tree/master/demo_docs/source)
