@@ -71,8 +71,6 @@ Questo è [un URL](http://docs.italia.it/).
 
 Un indirizzo email: [scrivici](mailto:a@b.it).
 
-Un numero di telefono: [chiamaci](tel:+3902000000001).
-
 Elenchi
 -------
 
@@ -154,23 +152,23 @@ height="2.27847in"}
 
 ### Tabella (senza didascalia)
 
-  ----- ----- -----
-  H1    H2    H3
+  ---- ---- ----
+  H1   H2   H3
 
-  A1    A2    A3
+  A1   A2   A3
 
-  B1    B2    B3
-  ----- ----- -----
+  B1   B2   B3
+  ---- ---- ----
 
 ### Tabella (con didascalia)
 
-  ----- ----- -----
-  H1    H2    H3
+  ---- ---- ----
+  H1   H2   H3
 
-  A1    A2    A3
+  A1   A2   A3
 
-  B1    B2    B3
-  ----- ----- -----
+  B1   B2   B3
+  ---- ---- ----
 
   : Didascalia della tabella
 

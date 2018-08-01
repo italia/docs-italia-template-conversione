@@ -79,8 +79,6 @@ Questo è `un URL <http://docs.italia.it/>`__.
 
 Un indirizzo email: `scrivici <mailto:a@b.it>`_.
 
-Un numero di telefono: `chiamaci <tel:+3902000000001>`_.
-
 Elenchi
 =======
 
