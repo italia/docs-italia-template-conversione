@@ -20,7 +20,7 @@ richieste dopo la conversione.
 ## :eyes: Esempi e aiuto
 
 Su Docs Italia puoi vedere il [documento ottenuto dalla conversione
-online](http://guida-docs-italia.readthedocs.io/it/latest/) del template, dopo
+online](https://template-conversione.readthedocs.io) del template, dopo
 aver applicato le procedure di pubblicazione descritte nella [Guida a Docs
 Italia](http://guida-docs-italia.readthedocs.io/it/latest/).
 
