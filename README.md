@@ -1,28 +1,34 @@
+[![Join the #docs-italia channel](https://img.shields.io/badge/Slack%20channel-%23docs--italia-blue.svg)](https://developersitalia.slack.com/messages/C9T4ELD4G/)
 
-## File di esempio per confrontare i formati
+# Template di conversione per Docs Italia
 
-Questi file permettono di confrontare un documento scritto con Office
-(o LibreOffice) con un documento scritto in RST. I contenuti sono gli
-stessi, i formati profondamente differenti.
+Questo repository contiene due template utili per la creazione di documenti su
+Docs Italia.  
 
-Il file `esempio.rst` può essere letto da qualsiasi persona usando un
-qualsiasi editor di testo, mentre files come `esempio.docx` (formato
-OpenXML) possono essere letti usando Office o LibreOffice.
+## :ledger: Come iniziare
 
-Tutti gli esempi contengono lo stesso testo e lo stesso stile, quindi
-potete osservare la corrispondenza fra la sintassi RST e la
-formattazione mostrata da un editor WYSIWYG come Word.
+È possibile scaricare i template in formato `.docx` o `.odt` e
+modificarli con un editor di testi usando le formattazioni indicate nelle
+istruzioni. 
 
-Potete anche visualizzare il [documento in formato Google
-Docs](https://docs.google.com/document/d/1_wXejg4DMcD17wGkR0zUA9rqoO6HSL5n_N4HVjrxtxY/edit?usp=sharing).
+I documenti così creati possono essere convertiti automaticamente
+nel formato di Docs Italia tramite il [convertitore
+online](https://docs-italia-staging.teamdigitale.it/converti/). Seguire le
+istruzioni permette di minimizzare gli interventi manuali e le correzioni
+richieste dopo la conversione.
 
-Un'altra risorsa utile sono [i documenti dimostrativi nel repository
-del tema di Docs
-Italia](https://github.com/italia/docs-italia-theme/tree/master/demo_docs/source)
+## :eyes: Esempi e aiuto
 
-### Conversione automatica
+Su Docs Italia puoi vedere il [documento ottenuto dalla conversione
+online](http://guida-docs-italia.readthedocs.io/it/latest/) del template, dopo
+aver applicato le procedure di pubblicazione descritte nella [Guida a Docs
+Italia](http://guida-docs-italia.readthedocs.io/it/latest/).
 
-Questi documenti possono essere convertiti automaticamente da un formato all'altro
-usando [pandoc](pandoc.org) e gli altri strumenti di
-[conversione](http://guida-docs-italia.readthedocs.io/it/latest/index/scrivere-un-documento.html#migrazione-su-docs-italia-di-documentazione-esistente)
-supportati da Docs Italia
+È anche possibile visualizzare il [template originale in formato Google
+Docs](https://docs.google.com/document/d/1eXqaXUn10dHLzi4V22IoxZF7EAdLzJncm_ChsMtfj5g/edit?usp=sharing).
+(NOTA: alcune formattazioni, come i paragrafi di codice, non vengono preservati
+nel documento Google Docs e non vengono quindi convertiti correttamente.)
+
+Puoi trovare altre informazioni sulla formattazione dei documenti in Docs
+Italia nella [Guida alla
+pubblicazione](http://guida-docs-italia.readthedocs.io/it/latest/).
