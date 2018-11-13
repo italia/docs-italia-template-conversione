@@ -1,5 +1,5 @@
-3.1. Elenchi puntati
-====================
+Elenchi puntati
+===============
 
 Usa l’apposita formattazione per creare un elenco puntato, come questo:
 

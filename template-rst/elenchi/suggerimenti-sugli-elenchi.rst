@@ -1,5 +1,5 @@
-3.3. Suggerimenti sugli elenchi
-===============================
+Suggerimenti sugli elenchi
+==========================
 
 Evita di usare elenchi annidati (un elenco dentro un altro elenco):
 rendono la comprensione più difficile. Leggi `ulteriori suggerimenti

@@ -1,5 +1,5 @@
-3.2. Elenco numerato
-====================
+Elenco numerato
+===============
 
 Usa l’apposita formattazione per creare un elenco numerato, come questo:
 

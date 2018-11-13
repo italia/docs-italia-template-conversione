@@ -1,7 +1,7 @@
-5. Altri suggerimenti
-=====================
+Altri suggerimenti
+==================
 
 .. toctree::
    :maxdepth: 3
 
-   altri-suggerimenti/note-a-piè-di-pagina.rst
+   altri-suggerimenti/note-a-pie-di-pagina.rst

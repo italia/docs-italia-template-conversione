@@ -1,4 +1,4 @@
-2.1. Corsivo
-============
+Corsivo
+=======
 
 Ecco *due* parti di *frase in corsivo*.

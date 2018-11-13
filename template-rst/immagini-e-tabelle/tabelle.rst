@@ -1,19 +1,18 @@
-4.2. Tabelle
-============
+Tabelle
+=======
 
 Usa solo delle tabelle con una struttura regolare, come quella di
-seguito. Aggiungi una didascalia prima della tabella.
+seguito. Aggiungi una didascalia dopo la tabella.
 
-Didascalia della tabella
+.. table:: Didascalia della tabella
+   :name: esempio-tabella
 
-.. table:: Esempio di tabella
-
-   +---------+---------+---------+
-   | **ID1** | **ID2** | **ID3** |
-   +=========+=========+=========+
-   | A1      | A2      | A3      |
-   +---------+---------+---------+
-   | B1      | B2      | B3      |
-   +---------+---------+---------+
-   | C1      | C2      | C3      |
-   +---------+---------+---------+
+   +--------------+--------------+--------------+
+   | **TITOLO 1** | **TITOLO 2** | **TITOLO 3** |
+   +==============+==============+==============+
+   | A1           | A2           | A3           |
+   +--------------+--------------+--------------+
+   | B1           | B2           | B3           |
+   +--------------+--------------+--------------+
+   | C1           | C2           | C3           |
+   +--------------+--------------+--------------+

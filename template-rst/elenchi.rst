@@ -1,5 +1,5 @@
-3. Elenchi
-==========
+Elenchi
+=======
 
 .. toctree::
    :maxdepth: 3
