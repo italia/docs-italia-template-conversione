@@ -1,5 +1,5 @@
-Introduzione
-============
+Istruzioni
+==========
 
 Questo modello è disponibile in diversi formati, tutti scaricabili dal
 `repository GitHub

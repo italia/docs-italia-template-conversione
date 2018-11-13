@@ -2,20 +2,22 @@
 
 # Template di conversione per Docs Italia
 
-Questo repository contiene due template utili per la creazione di documenti su
-Docs Italia.  
+Questo repository contiene un template in diversi formati, utile per creare 
+un documento su Docs Italia.  
 
 ## :ledger: Come iniziare
 
-È possibile scaricare i template in formato `.docx` o `.odt` e
-modificarli con un editor di testi usando le formattazioni indicate nelle
-istruzioni. 
+Puoi usare questo modello nel formato DOCX o ODT per scrivere il tuo documento
+con un editor di testi come Microsoft Word o LibreOffice.  Quando hai
+terminato, converti il documento nel formato di Docs Italia usando il
+[convertitore online](https://docs.italia.it/converti/). Segui gli stili
+proposti per le varie formattazioni: questo ti permetterà di ridurre i problemi
+durante la conversione.
 
-I documenti così creati possono essere convertiti automaticamente
-nel formato di Docs Italia tramite il [convertitore
-online](https://docs-italia-staging.teamdigitale.it/converti/). Seguire le
-istruzioni permette di minimizzare gli interventi manuali e le correzioni
-richieste dopo la conversione.
+In alternativa, puoi scrivere il tuo documento direttamente nel formato RST di
+Docs Italia. Segui la sintassi del modello (lo trovi nella cartella
+`template-rst`) per ottenere le varie formattazioni del testo, aiutandoti
+eventualmente con le versioni DOCX o ODT per vedere a cosa corrispondono.
 
 ## :eyes: Esempi e aiuto
 
@@ -32,3 +34,10 @@ nel documento Google Docs e non vengono quindi convertiti correttamente.)
 Puoi trovare altre informazioni sulla formattazione dei documenti in Docs
 Italia nella [Guida alla
 pubblicazione](http://guida-docs-italia.readthedocs.io/it/latest/).
+
+## :construction: Segnalazioni e suggerimenti
+
+Questo template è in fase di costruzione. Se trovi dei bug nei template o in
+fase di conversione, segnalali usando la funzione
+[Issues](https://github.com/italia/docs-italia-template-conversione/issues) in
+questo repository.
